@@ -13,3 +13,7 @@ code to open infinity chrome tabs until your device cannot handle it
 1. Download the repo as a zip file
 2. Unzip the file
 3. Double click bat file to run the programme
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
