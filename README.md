@@ -1,4 +1,9 @@
 # infinity-tabs-code
+
+Live demo: https://hongyime.github.io/infinityTabs2020/
+
+![Project screenshot](./screenshot.png)
+
 code to open infinity chrome tabs until your device cannot handle it
 
 <p align="left">
